@@ -1,0 +1,17 @@
+## Avvio script in R ##
+
+- Aprire il software R cliccando sull'icona corrispondente, l'ultima versione è la 3.3.2
+
+- Scaricare il file contenente i dati chiamato "normalpbase.RData" e salvarlo sul Desktop
+
+- Una volta aperto il software, cliccare su file, nel menù cliccare su "Carica area di lavoro...", cliccare sul file .RData presente sul Desktop 
+
+- Una volta caricato il file coi dati bisogna caricare lo script cliccando sempre su "File", nel menù cliccare su "Apri script" aprendo il file "Normalp.R"
+
+- Aperto tale file si aprirà una nuova finestra oltre a quella della console, per far girare lo script deve selezionare tutto il foglio premendo contemporaneamente Ctrl A, fatto questo cliccare contemporaneamente Ctrl R per far partire tutto lo script in una volta sola
+
+- Per fare girare lo script riga per riga basta selezionarla e cliccare col tasto destro e selezionare il comando di avvio
+
+
+
+P.s le invio anche il file in pdf per sicurezza
