@@ -1,3 +1,3 @@
 # Regression on Lp-Norm
 
-This class was taught by [massimiliano.giacalone@unina.it](Massimiliano Giacalone)
+This class was taught by [Massimiliano Giacalone](massimiliano.giacalone@unina.it)
